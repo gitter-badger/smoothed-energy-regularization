@@ -1,5 +1,7 @@
 Smoothed Quadratic Energies on Meshes
 -------------------------------------
+
+[![Join the chat at https://gitter.im/ph03/smoothed-energy-regularization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ph03/smoothed-energy-regularization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ACM Transactions on Graphics 2014 - J. Martinez Esturo, C. Rössl, and H. Theisel
 
 This repository contains a reference implementation of the generic *smoothed
